@@ -47,7 +47,7 @@ GLOBAL STYLES
 body {
   font-family: var(--ff-primary);
   color: var(--clr-grayish-blue);
-  background-color: var(--clr-white);
+  background-color: var(--clr-very-light-gray);
   line-height: 1.5;
   font-size: 0.875rem;
 }
